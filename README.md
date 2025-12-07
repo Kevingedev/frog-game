@@ -3,7 +3,7 @@ FrogGame
 
 Descripción
 -----------
-FrogGame es un juego Android (orientación horizontal) donde el jugador interactúa con ranas y elementos en pantalla. El proyecto está implementado como una aplicación Android con Activities principales `InicioActivity` (pantalla de inicio con video de fondo) y `MainActivity` (lógica principal del juego). Incluye imágenes y audio en `app/src/main/res`.
+FrogGame es mi primer juego Android (orientación horizontal) donde el jugador interactúa con ranas y elementos en pantalla intentando cambiar a las ranas de su posicion. El proyecto está implementado como una aplicación Android con Activities principales `InicioActivity` (pantalla de inicio con video de fondo) y `MainActivity` (lógica principal del juego). Incluye imágenes y audio en `app/src/main/res`.
 
 Características principales
 -------------------------
@@ -84,5 +84,3 @@ Contacto
 Si necesitas ayuda con compilación o publicación, abre un issue en este repositorio o contacta al autor del proyecto.
 
 ------
-# frog-game
-Este es mi primer juego para móvil creado en AndroidStudio usando con Java 
